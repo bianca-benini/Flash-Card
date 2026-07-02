@@ -3,7 +3,7 @@
 
 criaCartao(
     'Filosofia',
-    'Qual é o conceito de etica?',
+    'Qual é o conceito de ética?',
     'conjunto de principios que orienta o comportamento homano, indicando oque é moralmente correto ou errado'
 )
 
@@ -17,4 +17,10 @@ criaCartao(
     'Programação',
     'O que é uma linguagem de programação?',
     'É uma lingua usada para escrever códigos que permitem o computador executar tarefas'
+)
+
+criaCartao(
+    'Disciplina 4',
+    'Pergunta 4',
+    'Resposta 4'
 )
