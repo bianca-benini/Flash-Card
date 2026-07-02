@@ -20,7 +20,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Disciplina 4',
-    'Pergunta 4',
-    'Resposta 4'
+    'Programação',
+    'Como ocorre um bug?',
+    'Ocorre quando há um erro no código, fazendo com que durante a execução funcione de forma incorreta ou inesperada'
 )
